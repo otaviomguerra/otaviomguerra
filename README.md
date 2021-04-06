@@ -7,7 +7,6 @@ You can use the website to generate badges: https://shields.io/
 
 [![Personal Blog](https://img.shields.io/badge/-Personal%20Blog-blue)](https://otavioguerra.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-guerra/)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:otaviomguerra@hotmail.com)
 
 
 I'm a Computer Engineer and have been studying **Data Science** and **Machine Learning** since early 2017. I love working with data to solve business problems. I'm currently working as a data scientist at Mobit Brasil LTDA.
@@ -21,7 +20,7 @@ I'm a Computer Engineer and have been studying **Data Science** and **Machine Le
 - 🌱 I’m currently learning about Big Data and the Hadoop Ecosystem;
 - ⚡️ Fun-Fact: I love reading about Physics/Economics;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: otaviomguerra@hotmail.com;
+- 📫 How to reach me: https://www.linkedin.com/in/otavio-guerra/;
 
 **Languages and Tools:** 
 
