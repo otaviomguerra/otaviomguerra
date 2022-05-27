@@ -17,7 +17,7 @@ I'm a Computer Engineer, Msc. Student in Deep Learning, currently working as a M
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://images.unsplash.com/photo-1527474305487-b87b222841cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80" />
 
-- 🌱 I’m currently learning Go;
+- 🌱 I’m currently learning Rust;
 - ⚡️ Fun-Fact: I love reading about Physics/Economics;
 - 📫 How to reach me: https://www.linkedin.com/in/otavio-guerra/;
 
