@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-guerra/)
 
 
-I'm a Computer Engineer, Msc. Student in Deep Learning, currently working as a ML Engineer @ https://www.smartlayers.io . I've been studying **Data Science**/**Machine Learning** since 2016. I love working with data to solve business problems.
+I'm a Computer Engineer, currently working as a Senior ML Engineer @ https://www.zazmic.com. I've been studying **Data Science**/**Machine Learning** since 2016 and work professionaly in the field since 2019. I love working with data to solve business problems.
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
@@ -17,8 +17,8 @@ I'm a Computer Engineer, Msc. Student in Deep Learning, currently working as a M
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://images.unsplash.com/photo-1527474305487-b87b222841cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80" />
 
-- 🌱 I’m currently learning Rust;
-- ⚡️ Fun-Fact: I love reading about Physics/Economics;
+- 🌱 I’m currently learning Golang;
+- ⚡️ Fun-Fact: I love reading about Economics and Philosophy;
 - 📫 How to reach me: https://www.linkedin.com/in/otavio-guerra/;
 
 **Languages and Tools:** 
