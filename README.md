@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-guerra/)
 
 
-I'm a Computer Engineer, currently working as a Senior ML Engineer @ https://www.zazmic.com. I've been studying **Data Science**/**Machine Learning** since 2016 and work professionaly in the field since 2019. I love working with data to solve business problems.
+I'm a Computer Engineer, currently working as a Senior ML Engineer. I've been studying **Data Science**/**Machine Learning** since 2016 and work professionaly in the field since 2019. I love working with data to solve business problems.
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
