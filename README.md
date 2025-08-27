@@ -17,7 +17,7 @@ I'm a Computer Engineer, currently working as a Senior ML Engineer. I've been st
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://images.unsplash.com/photo-1527474305487-b87b222841cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80" />
 
-- 🌱 I’m currently learning Golang;
+- 🌱 I’m currently learning Rust and Cyber Security;
 - ⚡️ Fun-Fact: I love reading about Economics and Philosophy;
 - 📫 How to reach me: https://www.linkedin.com/in/otavio-guerra/;
 
