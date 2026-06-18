@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-guerra/)
 
-I'm a Computer Engineer currently working as a Senior Machine Learning Engineer. I've been studying **Data Science**/**Machine Learning** since 2016 and work professionaly in the field since 2019. I love working with data to solve business problems.
+I'm a Computer Engineer currently working as a Senior Machine Learning Engineer. I've been studying **Data Science**/**Machine Learning** since 2016 and work professionaly in the field since early 2019. I love working with data to solve business problems regardless of domain or problem.
 
 <!-- Talking about you -->
 **About Me**
@@ -11,9 +11,9 @@ I'm a Computer Engineer currently working as a Senior Machine Learning Engineer.
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://images.unsplash.com/photo-1527474305487-b87b222841cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80" />
 
-- 🌱 I’m currently learning Rust and Cyber Security
+- 🌱 I’m currently learning Rust
 - 📫 **How to reach me**: [LinkedIn Profile](https://www.linkedin.com/in/otavio-guerra)
-- ⚡️ Fun-Fact: I love reading about Economics and Philosophy
+- ⚡️ Fun-Fact: I love reading/learning about Economics, Philosophy and Physics
 
 **Languages and Tools that I love** 
 
